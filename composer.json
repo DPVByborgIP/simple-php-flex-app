@@ -9,12 +9,13 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\SimplePhpFlexApp\\": "src/"
+            "App\\SimplePhpFlexApp\\": "hello-world/1.0/src/"
         }
     },
     "config": {
         "allow-plugins": {
             "symfony/flex": true
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
