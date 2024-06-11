@@ -1,5 +1,5 @@
 {
-    "name": "dinesh-vadamodula/simple-php-flex-app",
+    "name": "dpv/simple-php-flex-app",
     "description": "# Simple PHP Flex App",
     "type": "library",
     "require": {
@@ -10,12 +10,6 @@
             "App\\SimplePhpFlexApp\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "dinesh.vadamodula",
-            "email": "dinesh.vadamodula@byborgenterprises.com"
-        }
-    ],
     "config": {
         "allow-plugins": {
             "symfony/flex": true

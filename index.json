@@ -1,6 +1,6 @@
 {
     "recipes": {
-        "dinesh-vadamodula/hello-world": [
+        "dpv/hello-world": [
             "1.0"
         ]
     },
@@ -9,6 +9,6 @@
     "_links": {
         "repository": "github.com/DPVByborgIP/simple-php-flex-app",
         "origin_template": "dinesh-vadamodula/hello-world:1.0@github.com/DPVByborgIP/simple-php-flex-app:main",
-        "recipe_template": "https://api.github.com/repos/DPVByborgIP/simple-php-flex-app/contents/dinesh-vadamodula.hello-world.1.0.json"
+        "recipe_template": "https://api.github.com/repos/DPVByborgIP/simple-php-flex-app/contents/manifest.json"
     }
 }
