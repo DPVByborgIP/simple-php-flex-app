@@ -1,6 +1,6 @@
 {
     "packages": {
-        "dpv/hello-world": {
+        "dpv/simple-php-flex-app": {
             "dev-main": {
                 "manifest": {
                     "copy-from-recipe": {

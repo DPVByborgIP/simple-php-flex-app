@@ -1,8 +1,8 @@
 <?php
 
-namespace App\SimplePhpFlexApp\HelloWorld;
+namespace App\SimplePhpFlexApp;
 
-readonly class Welcome
+readonly class HelloWorld
 {
     public function __construct(private string $color)
     {
