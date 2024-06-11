@@ -7,8 +7,6 @@
     "branch": "main",
     "is_contrib": true,
     "_links": {
-        "repository": "github.com/DPVByborgIP/simple-php-flex-app",
-        "origin_template": "{package}:{version}@github.com/DPVByborgIP/simple-php-flex-app:main",
-        "recipe_template": "https://api.github.com/repos/DPVByborgIP/simple-php-flex-app/contents/{package_dotted}.{version}.json"
+        "repository": "github.com/DPVByborgIP/simple-php-flex-app"
     }
 }
