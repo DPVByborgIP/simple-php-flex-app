@@ -1,6 +1,6 @@
 {
     "manifests": {
-        "dinesh.vadamodula/hello-world": {
+        "dinesh-vadamodula/hello-world": {
             "manifest": {
                 "copy-from-recipe": {
                     "config/": "%CONFIG_DIR%"
