@@ -2,5 +2,6 @@
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
     },
+    "aliases": ["dummyboxone"],
     "ref": "4928034542a3a1845885f695892c6abdd60849f1"
 }
