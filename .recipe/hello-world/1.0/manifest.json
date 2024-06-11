@@ -1,7 +1,7 @@
 {
     "manifest": {
         "copy-from-recipe": {
-            "config/": "%CONFIG_DIR%/"
+            ".recipe/hello-world/1.0/": "%CONFIG_DIR%/"
         },
         "post-install-output": [
             "echo 'Hello World!'"

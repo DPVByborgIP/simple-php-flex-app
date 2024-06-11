@@ -8,7 +8,6 @@
     "is_contrib": true,
     "_links": {
         "repository": "github.com/DPVByborgIP/simple-php-flex-app",
-        "origin_template": "git@github.com/DPVByborgIP/simple-php-flex-app:main",
         "recipe_template": "https://api.github.com/repos/DPVByborgIP/simple-php-flex-app/contents/.recipe/hello-world/1.0/manifest.json"
     }
 }
