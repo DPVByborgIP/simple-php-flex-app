@@ -1,5 +1,5 @@
 {
-    "name": "dpv/simple-php-flex-app",
+    "name": "dpv/simple-php-flex-recipes",
     "description": "# Simple PHP Flex App",
     "type": "library",
     "require": {
