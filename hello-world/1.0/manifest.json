@@ -1,0 +1,10 @@
+{
+    "copy-from-recipe": {
+        "hello-world/1.0/config/": "%CONFIG_DIR%/",
+        ".env.dev": ".env.dev"
+    },
+    "post-install-output": [
+        "echo 'Hello World!'"
+    ],
+    "ref": "4928034542a3a1845885f695892c6abdd60849f1"
+}
