@@ -1,10 +1,12 @@
 {
-    "manifest": {
-        "bundles": {
-            "App\\SimplePhpFlexApp\\": ["all"]
-        },
-        "copy-from-recipe": {
-            "config/": "%CONFIG_DIR%/"
+    "manifests": {
+        "dinesh.vadamodula/hello-world": {
+            "manifest": {
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%"
+                }
+            },
+            "ref": "4928034542a3a1845885f695892c6abdd60849f1"
         }
     }
 }

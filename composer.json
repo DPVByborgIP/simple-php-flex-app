@@ -3,7 +3,7 @@
     "description": "# Simple PHP Flex App",
     "type": "library",
     "require": {
-        "symfony/flex": "^2.4"
+        "symfony/flex": "^2.4.5"
     },
     "autoload": {
         "psr-4": {
