@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2972bfac67964a52e385af62f504ff00",
+    "content-hash": "6bd236f69708ff2146787db7f2d3da24",
     "packages": [
         {
             "name": "symfony/flex",
