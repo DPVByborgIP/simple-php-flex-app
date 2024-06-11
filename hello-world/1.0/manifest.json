@@ -1,6 +1,6 @@
 {
     "copy-from-recipe": {
-        "config/packages/": "%CONFIG_DIR%/"
+        "config/packages/": "%CONFIG_DIR%/packages/"
     },
     "post-install-output": [
         "Hello World!"

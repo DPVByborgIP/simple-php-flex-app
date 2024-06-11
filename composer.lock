@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a3b6bbe5264aad52f0a459a570c60da4",
+    "content-hash": "7c885f4f44e4bb5d4825294f4dfb30d6",
     "packages": [
         {
             "name": "symfony/flex",
@@ -78,7 +78,10 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=8.2",
+        "composer-plugin-api": "^2.1"
+    },
     "platform-dev": [],
     "plugin-api-version": "2.6.0"
 }
