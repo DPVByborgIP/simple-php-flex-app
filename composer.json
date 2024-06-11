@@ -3,6 +3,8 @@
     "description": "# Simple PHP Flex App",
     "type": "library",
     "require": {
+        "php": ">=8.2",
+        "composer-plugin-api": "^2.1",
         "symfony/flex": "^2.4.5"
     },
     "autoload": {
