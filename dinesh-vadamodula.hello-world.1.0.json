@@ -9,6 +9,15 @@
                     "echo 'Hello World!'"
                 ]
             },
+            "files": {
+                "config/packages/helloworld.yaml": {
+                    "contents": [
+                        "hello_world:",
+                        "    color: 'blue'"
+                    ],
+                    "executable": false
+                }
+            },
             "ref": "4928034542a3a1845885f695892c6abdd60849f1"
         }
     }
