@@ -1,13 +1,13 @@
 {
-    "recipes": {
-        "dpv/hello-world": [
-            "1.0"
-        ]
-    },
-    "branch": "main",
-    "is_contrib": true,
-    "_links": {
-        "repository": "github.com/DPVByborgIP/simple-php-flex-app",
-        "recipe_template": "https://api.github.com/repos/DPVByborgIP/simple-php-flex-app/contents/hello-world/1.0/manifest.json"
+    "packages": {
+        "dpv/hello-world": {
+            "dev-main": {
+                "manifest": {
+                    "copy-from-recipe": {
+                        "config/": "%CONFIG_DIR%/"
+                    }
+                }
+            }
+        }
     }
 }

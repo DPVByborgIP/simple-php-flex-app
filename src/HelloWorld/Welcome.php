@@ -2,7 +2,7 @@
 
 namespace App\SimplePhpFlexApp\HelloWorld;
 
-readonly class HelloWorld
+readonly class Welcome
 {
     public function __construct(private string $color)
     {
