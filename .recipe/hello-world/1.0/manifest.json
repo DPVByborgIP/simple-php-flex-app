@@ -1,7 +1,7 @@
 {
     "manifest": {
         "bundles": {
-            "App\\SimplePhpFlexApp\\": ["all"] // confirm the meaning of bundle
+            "App\\SimplePhpFlexApp\\": ["all"]
         },
         "copy-from-recipe": {
             "config/": "%CONFIG_DIR%/"
